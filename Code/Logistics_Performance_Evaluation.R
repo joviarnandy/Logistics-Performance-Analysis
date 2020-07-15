@@ -115,7 +115,7 @@ data[is.na(data$second_deliver_attempt),4] = as.POSIXct("2020-05-15 00:00:00",or
 
 #Performa above funtions again..
 pp = data [1:dim(data)[1],]
-p2 = (as.data.frame(mapply(busday, pp$first_delivery_attempt, pp$second_deliver_attempt)))
+p2 = (as.data.frame(mapply(busday, pp$first_deliver_attempt, pp$second_deliver_attempt)))
 colnames(p2) = "workdays_between_firstdeliver_and_seconddeliver"
 data$workdays_between_firstdeliver_and_seconddeliver = p2$workdays_between_firstdeliver_and_seconddeliver
 rm(pp,p2)
