@@ -45,7 +45,7 @@ This task is important because we want to measure the quality Shopee's delivery 
 ### Disclaimer
 
 * Pardon my messy writing on several lines of code.
-* Make sure to run the code on PC/Laptop with RAM >= 8 GB (possibly CPU-Intensive).
+* Make sure to run the code on PC/Laptop with RAM >= 8 GB (possibly CPU-Intensive since it takes approximately two hours to run).
 
 ### TODO
 
