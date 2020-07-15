@@ -27,10 +27,10 @@ This repo contains data and R code for the Logistic Performance Analysis Task in
     - Working Days are defined as Mon-Sat, Excluding Public Holidays.
     
     - Assume the following Public Holidays: 
-      2020-03-08 (Sunday)
-      2020-03-25 (Wednesday);
-      2020-03-30 (Monday);
-      2020-03-31 (Tuesday)
+      * 2020-03-08 (Sunday)
+      * 2020-03-25 (Wednesday);
+      * 2020-03-30 (Monday);
+      * 2020-03-31 (Tuesday)
     
     - SLA calculation begins from the next day after pickup (Day 0 = Day of Pickup; Day 1 = Next Day after Pickup)
     
