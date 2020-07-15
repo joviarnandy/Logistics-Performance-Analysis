@@ -136,4 +136,5 @@ data = data %>%
 #write submission file for further analysis (i.e Mathew Correlation Matrix etc)
 submission = data[c("orderid","is_late")]
 rm(list=setdiff(ls(), c("submission")))
-write.csv(submission,"submission.csv")
+write.csv(submission,"submission.csv",row.names=FALSE)
+cat("\014")
