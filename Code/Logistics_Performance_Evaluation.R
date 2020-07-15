@@ -1,6 +1,3 @@
-### DISCLAIMER:
-## Below code is CPU Intensive! Make sure you run it on >= 16 GB RAM
-
 #Load Library
 library(vroom)
 library(stringr)
