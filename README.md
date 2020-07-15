@@ -45,7 +45,7 @@ This task is important because we want to measure the quality of Shopee's delive
 ### Disclaimer
 
 * Pardon my messy writing on several lines of code.
-* Make sure to run the code on PC/Laptop with at least 8 GB of RAM (possibly CPU-Intensive since it takes approximately two hours to run).
+* Make sure to run the code on PC/Laptop with at least 8 GB of RAM (possibly CPU-Intensive since it takes approximately two hours to run in Kaggle Kernel).
 
 ### TODO
 
